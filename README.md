@@ -10,3 +10,5 @@ I added extra features:
 - Tracking the number of rolls and time it took to win the game
 - Saving best time to Local Storage so the user can try to beat his record in the next round
 - Reset button to remove items from Local Storage and reset the game
+
+![Screen Shot 2022-02-24 at 14 21 03](https://user-images.githubusercontent.com/77698908/155552408-bbc98f7c-b006-46d2-a799-e6765ff6a499.png)
