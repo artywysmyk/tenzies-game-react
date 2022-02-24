@@ -12,3 +12,9 @@ I added extra features:
 - Reset button to remove items from Local Storage and reset the game
 
 ![Screen Shot 2022-02-24 at 14 21 03](https://user-images.githubusercontent.com/77698908/155552408-bbc98f7c-b006-46d2-a799-e6765ff6a499.png)
+
+![Screen Shot 2022-02-24 at 14 21 48](https://user-images.githubusercontent.com/77698908/155552584-3c1b6b5f-cd8a-45d4-b36e-890e508d0e9c.png)
+
+![Screen Shot 2022-02-24 at 14 21 59](https://user-images.githubusercontent.com/77698908/155552592-32101313-ff57-40eb-9092-db8250cdd2ea.png)
+
+![Screen Shot 2022-02-24 at 14 22 11](https://user-images.githubusercontent.com/77698908/155552599-0c0cffc7-56e7-406b-96ee-ccb12c1155ee.png)
